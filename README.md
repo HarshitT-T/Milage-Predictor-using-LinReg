@@ -1,5 +1,5 @@
 
-# Milage Prediction in Automobiles using Linear Regression
+# Milage Prediction in Automobiles using MULTI-LINEAR REGRESSION
 
 The mission is to predict the mileage of a particular car in city driving, given data of some parameters (features) for hundreds of cars.
    1. mpg:           continuous
