@@ -14,7 +14,7 @@ The mission is to predict the mileage of a particular car in city driving, given
 
 ## Deployment
 
-Achieved an accuracy of 85%
+Achieved an accuracy of 86.4%
 
 
 
